@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![banner-negocios-ti](https://user-images.githubusercontent.com/9430430/73585936-32181680-4485-11ea-9386-5ba3d1739282.jpg)
 *******
-# Carlos Junior - Currículo Profissional
 ## Desenvolvedor Android Java/Kotlin
 ### Uberlândia, Minas Gerais, Brasil :earth_americas:
 *******
