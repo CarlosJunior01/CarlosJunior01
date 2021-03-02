@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner-negocios-ti](https://user-images.githubusercontent.com/9430430/73585936-32181680-4485-11ea-9386-5ba3d1739282.jpg)
+![1603944260703](https://user-images.githubusercontent.com/9430430/109712195-80af4d00-7b7e-11eb-91d5-2b6771fd8060.jpg)
 *******
 ## Desenvolvedor Android Java/Kotlin
 ### Uberlândia, Minas Gerais, Brasil :earth_americas:
