@@ -83,18 +83,23 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 
 ## PROJETOS:
 ### Proprietários
-* Mobile: APP MY NOTES(Java) [link...] https://github.com/Carlosjr01/APP-NATIVO-MY-NOTES)
+* ANDROID: MARVEL [link...] https://github.com/Carlosjr01/MARVEL
+
+    > App Android Nativo escrito em Kotlin, consumindo API da Marvel e processando resposta com retrofit2 e moschi. 
+    > Projetado com padrão de arquitetura MVVM com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+ 
+* ANDROID: APP MY NOTES(Java) [link...] https://github.com/Carlosjr01/APP-NATIVO-MY-NOTES
 
     > App de Anotações, com integração ao BD.
     > Armazenar e listar tarefas.
     > Incluir, deletar e atualizar suas anotações.
+    
+* ANDROID: APP FOREX - REBAIXAMENTO OPÇÕES BINÁRIAS (Java)
+     >Aplicativo Nativo desenvolvido em Android Studio com Java. 
 
-* Mobile: APP FLEX - ÁLCOOL OU GASOLINA (Java) [link...](https://github.com/Carlosjr01/ANDROID-NATIVO-APP-FLEX)
+* ANDROID: APP FLEX - ÁLCOOL OU GASOLINA (Java) [link...](https://github.com/Carlosjr01/ANDROID-NATIVO-APP-FLEX
 
     >Aplicativo Nativo desenvolvido em Android Studio com Java. 
-
-* Mobile: APP FOREX - REBAIXAMENTO OPÇÕES BINÁRIAS (Java)
-     >Aplicativo Nativo desenvolvido em Android Studio com Java. 
 
 * JAVA-IMC-CALCULATOR (Java) [link...](https://github.com/Carlosjr01/JAVA-IMC-CALCULATOR/blob/master/src/imc/IMC_Calc.java)
     >Aplicação Java para calculos de IMC. 
