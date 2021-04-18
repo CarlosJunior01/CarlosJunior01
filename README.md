@@ -129,9 +129,14 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 *******
 
 ## EXPERIÊNCIAS PROFISSIONAIS:
+### ZUP ITAÚ (2021)
+* **Mobile Developer**
+   > Open bankin - iti Itaú
+   
 ### everis NTT Data (2020)
 * **Mobile Developer**
-   >Uberlândia, Minas Gerais
+   > Renegociação e Performance - App Cartões Itaú
+   > Payment - iti Itaú
    
 ### Souza Cruz (2007-2019)
 * **Production Technician And Exported Planner**
