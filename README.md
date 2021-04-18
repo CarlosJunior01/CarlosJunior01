@@ -84,7 +84,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ## EXPERIÊNCIAS PROFISSIONAIS:
 ### ZUP ITAÚ (2021)
 * **Mobile Android Developer**
-   > Open bankin - iti Itaú
+   > Open Banking - iti Itaú
    
 ### Everis NTT Data (2020)
 * **Mobile Android Developer**
