@@ -2,6 +2,8 @@
 #### Eu sou um Desenvolvedor Android Java/Kotlin
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/Carlosjr01) 
+
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/google-icon.svg" alt="google" width="45" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/>  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> 
 <!--
 **Carlosjr01/Carlosjr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
