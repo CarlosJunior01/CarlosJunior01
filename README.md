@@ -1,5 +1,7 @@
-### Olá 😄
+### Olá 😄, meu nome é Carlos Magno
+#### Eu sou um Desenvolvedor Android Java/Kotlin
 
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/Carlosjr01) 
 <!--
 **Carlosjr01/Carlosjr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
