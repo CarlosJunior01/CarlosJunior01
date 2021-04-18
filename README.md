@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ![1603944260703](https://user-images.githubusercontent.com/9430430/109712195-80af4d00-7b7e-11eb-91d5-2b6771fd8060.jpg)
 *******
-## Desenvolvedor Android Java/Kotlin
 ### Uberlândia, Minas Gerais, Brasil :earth_americas:
 *******
 
