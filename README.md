@@ -83,6 +83,12 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 
 ## PROJETOS:
 ### Proprietários
+* ANDROID: APP MOVIES [link...] https://github.com/Carlosjr01/Filmes-App
+
+    > App Android Nativo escrito em Kotlin, consumindo API tmdb e processando resposta com retrofit2, coroutines para tratamento de concorrência e integração ao Firebase       Authentication para reconhecimento da identidade do usuário. 
+    > Projetado com padrão de arquitetura MVVM com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+ 
+ 
 * ANDROID: MARVEL [link...] https://github.com/Carlosjr01/MARVEL
 
     > App Android Nativo escrito em Kotlin, consumindo API da Marvel e processando resposta com retrofit2 e moschi. 
