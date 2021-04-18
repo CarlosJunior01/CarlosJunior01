@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 ### Uberlândia, Minas Gerais, Brasil :earth_americas:
 *******
 
-## CONTATOS
-* :calling: **(34) 9 9690 0065**
-* :computer: **carlosjr.developer@outlook.com**
-* :briefcase: **www.linkedin.com/in/carlosjrdeveloper**
-* :octocat: **www.github.com/Carlosjr01 (Portfólio)**
+* ## 🔗 Saiba mais sobre mim
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Carlosjr01?tab=repositories)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:carlos.udi@live.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlosjrdeveloper/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@juniormax06)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/carlosjr_developer/)
 
 *******
 
@@ -154,15 +156,5 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 * Legacy of Horus - 3D Game (C++) [link1...](https://www.youtube.com/watch?v=ID-k12TUQgc)  |  [link2...](https://www.youtube.com/watch?v=t8u471OA26M)
     >Game desenvolvido em Unnreal Engine 4 e programado em C++ - Legacy of Horus(Alpha Version)1080p.
     
-*******
-
-## 🔗 Saiba mais sobre mim
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Carlosjr01?tab=repositories)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:carlos.udi@live.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlosjrdeveloper/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@juniormax06)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/carlosjr_developer/)
-   
 *******
 
