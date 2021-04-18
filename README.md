@@ -78,6 +78,35 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   :white_square_button: **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
   :white_square_button: **𝗨𝗡𝗥𝗘𝗔𝗟 𝟰**<br/>
   :white_square_button: **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
+  
+  *******
+
+## EXPERIÊNCIAS PROFISSIONAIS:
+### ZUP ITAÚ (2021)
+* **Mobile Developer**
+   > Open bankin - iti Itaú
+   
+### everis NTT Data (2020)
+* **Mobile Developer**
+   > Renegociação e Performance - App Cartões Itaú
+   
+   > Payment - iti Itaú
+   
+### Souza Cruz (2007-2019)
+* **Production Technician And Exported Planner**
+   >Uberlândia, Minas Gerais
+   
+* **Maintenance Mechanic 3**
+   >Uberlândia, Minas Gerais
+   
+* **Maintenance Mechanic 2**
+   >Uberlândia, Minas Gerais
+  
+* **Maintenance Mechanic 1**
+   >Uberlândia, Minas Gerais
+   
+* **Process Operator**
+   >Uberlândia, Minas Gerais
 
 *******
 
@@ -126,34 +155,6 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
    
 *   >https://www.youtube.com/channel/UCtchh0q4ib049qFLGkT_VBw
    
-*******
 
-## EXPERIÊNCIAS PROFISSIONAIS:
-### ZUP ITAÚ (2021)
-* **Mobile Developer**
-   > Open bankin - iti Itaú
-   
-### everis NTT Data (2020)
-* **Mobile Developer**
-   > Renegociação e Performance - App Cartões Itaú
-   
-   > Payment - iti Itaú
-   
-### Souza Cruz (2007-2019)
-* **Production Technician And Exported Planner**
-   >Uberlândia, Minas Gerais
-   
-* **Maintenance Mechanic 3**
-   >Uberlândia, Minas Gerais
-   
-* **Maintenance Mechanic 2**
-   >Uberlândia, Minas Gerais
-  
-* **Maintenance Mechanic 1**
-   >Uberlândia, Minas Gerais
-   
-* **Process Operator**
-   >Uberlândia, Minas Gerais
-  
 *******
 
