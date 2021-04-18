@@ -92,7 +92,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
    
    > Payment - iti Itaú
    
-### Souza Cruz (2007-2019)
+### BAT - British American Tobacco (2007-2019)
 * **Production Technician And Exported Planner**
    >Uberlândia, Minas Gerais
    
