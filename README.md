@@ -136,6 +136,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ### everis NTT Data (2020)
 * **Mobile Developer**
    > Renegociação e Performance - App Cartões Itaú
+   
    > Payment - iti Itaú
    
 ### Souza Cruz (2007-2019)
