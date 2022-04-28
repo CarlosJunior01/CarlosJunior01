@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/>  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="55" height="55"/>
 <!--
 **Carlosjr01/Carlosjr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
