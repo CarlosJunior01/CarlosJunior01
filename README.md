@@ -86,8 +86,12 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   *******
 
 ## EXPERIÊNCIAS PROFISSIONAIS:
+### C6 BANK (2022 - 2023)
+* **Mobile Android Developer Senior**
+   > C6 YELLOw - C6 Bank
+   
 ### ZUP ITAÚ (2021 - 2022)
-* **Mobile Android Developer**
+* **Mobile Android Developer Senior**
    > Open Banking - iti Itaú
    
 ### Everis NTT Data (2020 - 2021)
