@@ -88,7 +88,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ## EXPERIÊNCIAS PROFISSIONAIS:
 ### C6 BANK (2022 - 2023)
 * **Mobile Android Developer Senior**
-   > C6 YELLOw - C6 Bank
+   > C6 YELLOW - C6 Bank
    
 ### ZUP ITAÚ (2021 - 2022)
 * **Mobile Android Developer Senior**
