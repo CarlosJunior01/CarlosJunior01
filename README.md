@@ -43,7 +43,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ## FORMAÇÃO ACADÊMICA: 
 **Pontifícia Universidade Católica de Minas Gerais - PUC MG** :mortar_board:
 
->BACHAREL SISTEMAS DE INFORMAÇÃO PUC MG - 2019 - 2022
+>BACHAREL SISTEMAS DE INFORMAÇÃO PUC MG - 2019 - 2023
 
 *******
 
