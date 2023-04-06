@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 *******
 * ## 🔗 Saiba mais sobre mim
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Carlosjr01?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/CarlosJunior01?tab=repositories)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:carlos.udi@live.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/carlosjrdeveloper/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@juniormax06)
