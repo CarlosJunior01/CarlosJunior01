@@ -120,6 +120,13 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 
 ## PROJETOS:
 ### Proprietários
+
+* ANDROID: GITHUB-APP [link...] https://github.com/CarlosJunior01/Github-App
+
+    > App Android Nativo escrito em Kotlin, consumindo API github e processando resposta com retrofit2, coroutines para tratamento de concorrência e erros na aplicação.
+    > Projetado com padrão de arquitetura MVVM e Clean Architecture, em multimodulos com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+ 
+
 * ANDROID: APP MOVIES [link...] https://github.com/Carlosjr01/Filmes-App
 
     > App Android Nativo escrito em Kotlin, consumindo API tmdb e processando resposta com retrofit2, coroutines para tratamento de concorrência e integração ao Firebase       Authentication para reconhecimento da identidade do usuário. 
