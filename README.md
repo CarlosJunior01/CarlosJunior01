@@ -66,7 +66,6 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   :ballot_box_with_check: **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
   :white_square_button: **𝗝𝗔𝗩𝗔**<br/>
   :white_square_button: **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
-  :white_square_button: **𝗖#**<br/>
 
   :ballot_box_with_check: **𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗.**<br/>
   :white_square_button: **𝗛𝗧𝗠𝗟**<br/>
@@ -75,7 +74,6 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 
   :ballot_box_with_check: **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
   :white_square_button: **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
-  :white_square_button: **𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘**<br/>
   :white_square_button: **𝗥𝗢𝗢𝗠**<br/>
 
   :ballot_box_with_check: **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
