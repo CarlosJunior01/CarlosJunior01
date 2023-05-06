@@ -119,7 +119,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ## PROJETOS:
 ### Proprietários
 
-ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
+* ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
     > App Android Nativo escrito em Kotlin, consumindo API Rest Swapi e processando resposta com retrofit2, coroutines para tratamento de concorrência e erros na aplicação.
     > Projetado com padrão de arquitetura MVVM e Clean Architecture, em multimodulos com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
