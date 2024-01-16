@@ -117,7 +117,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 *******
 
 ## PROJETOS:
-### Proprietários
+### Meus Repositórios
 
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
