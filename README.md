@@ -88,23 +88,39 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   :white_square_button: **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
   
   *******
-
 ## EXPERIÊNCIAS PROFISSIONAIS:
+
+### CLaro (2023 - 2024)
+* **Mobile Android Developer Senior 3**
+   > Minha Claro Residencial <br>
+   > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto.
+
 ### C6 BANK (2022 - 2023)
-* **Mobile Android Developer Senior**
-   > C6 YELLOW - C6 Bank
+* **Mobile Android Developer Senior 3**
+   > C6 YELLOW - C6 Bank <br>
+   > Frente de Investimentos, Cartões, Pix Cash-In, Pix Cash-Out e Gestão de Chaves Pix.
    
-### ZUP ITAÚ (2021 - 2022)
-* **Mobile Android Developer Senior**
-   > Open Banking - iti Itaú
-   
-### Everis NTT Data (2020 - 2021)
+### Santander GetNet (2021 - 2022)
+* **Mobile Android Developer Senior 2**
+   > Santander SuperGet <br>
+   > Frente de Pagamentos com Tap On Phone e Cartões.
+
+### ZUP ITAÚ (2020 - 2021)
+* **Mobile Android Developer Senior 1**
+   > Open Banking - iti Itaú <br>
+   > Frente de Open Finance, Pix Cash-In, Pix Cash-Out e Gestão de Chaves Pix.
+
+### Ergon Data (2019 - 2020)
 * **Mobile Android Developer**
-   > Renegociação e Performance - App Cartões Itaú
+   > Freto <br>
+   > Responsável pela jornada completa da Conta Digital Pagamentos, Tranferência e Gestão Chaves Pix.
    
+### Everis NTT Data (2018 - 2019)
+* **Mobile Android Developer**
+   > Renegociação e Performance - App Cartões Itaú <br>
    > Payment - iti Itaú
    
-### BAT - British American Tobacco (2007-2019)
+### BAT - British American Tobacco (2007-2017)
 * **Production Technician And Exported Planner**
    >Uberlândia, Minas Gerais
    
