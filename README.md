@@ -3,9 +3,16 @@
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/Carlosjr01) 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="55" height="55"/>
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/>
+
+<h4 align="left">Companies:</h4>
+
+<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-logo.svg" alt="ntt-data" width="180" height="45"/>
+
+
+
 <!--
 **Carlosjr01/Carlosjr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
