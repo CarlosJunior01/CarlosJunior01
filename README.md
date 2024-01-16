@@ -5,11 +5,11 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://sdtimes.com/wp-content/uploads/2020/08/jetpack-compose-icon_RGB.png" alt="compose" height="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/> 
 
 <h4 align="left">Companies:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-logo.svg" alt="ntt-data" width="180" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="180" height="45"/> &nbsp; <img src="https://media-genial-analisa.genialinvestimentos.com.br/wp-content/uploads/2021/07/01174639/petz-04.png" alt="petz" height="45"/>
 
 
 
@@ -59,10 +59,9 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   :white_square_button: **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
   :white_square_button: **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
   :white_square_button: **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
-  :white_square_button: **𝗠𝗩𝗩𝗠/𝗠𝗩𝗩𝗠 𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘**<br/>
+  :white_square_button: **𝗠𝗩𝗣/𝗠𝗩𝗩𝗠/𝗠𝗩𝗩𝗠 𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘**<br/>
   :white_square_button: **𝗔𝗣𝗜 𝗪𝗘𝗕 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦 + 𝗥𝗘𝗧𝗥𝗢𝗙𝗜𝗧**<br/>
   :white_square_button: **𝗚𝗢𝗢𝗚𝗟𝗘 𝗔𝗣𝗜'𝗦**<br/>
-  :white_square_button: **𝗗𝗘𝗦𝗘𝗡𝗩𝗢𝗟𝗩𝗜𝗠𝗘𝗡𝗧𝗢 𝗗𝗘 𝗔𝗣𝗜**<br/>
   :white_square_button: **𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘**<br/>
   :white_square_button: **𝗧𝗘𝗦𝗧𝗘𝗦 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗭𝗔𝗗𝗢𝗦**<br/>
   :white_square_button: **𝗝𝗨𝗡𝗜𝗧, 𝗠𝗢𝗖𝗞𝗜𝗧𝗢, 𝗘𝗦𝗣𝗥𝗘𝗦𝗦𝗢**<br/>
