@@ -119,6 +119,16 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 ## PROJETOS:
 ### Meus Repositórios
 
+* 1000 Days Of Android [link...] https://github.com/CarlosJunior01/1000_Days_Of_Android
+
+    > This is my 1000 day Android study marathon.
+
+
+* 1000 Days Of Kotlin [link...] https://github.com/CarlosJunior01/1000-Days-Of-Kotlin
+
+    > This is my 1000 day Kotlin study marathon.
+
+
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
     > App Android Nativo escrito em Kotlin, consumindo API Rest Swapi e processando resposta com retrofit2, coroutines para tratamento de concorrência e erros na aplicação.
