@@ -90,7 +90,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   *******
 ## EXPERIÊNCIAS PROFISSIONAIS:
 
-### CLaro (2023 - 2024)
+### Claro (2023 - 2024)
 * **Mobile Android Developer Senior 3**
    > Minha Claro Residencial <br>
    > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto.
