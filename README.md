@@ -152,51 +152,51 @@ Developer of Mobile systems and Digital Games. I have good interpersonal relatio
 
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
-    > App Android Nativo escrito em Kotlin, consumindo API Rest Swapi e processando resposta com retrofit2, coroutines para tratamento de concorrência e erros na aplicação.
-    > Projetado com padrão de arquitetura MVVM e Clean Architecture, em multimodulos com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+   > Native Android App written in Kotlin, consuming Rest Swapi API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
+    > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
  
 
 * ANDROID: GITHUB-APP [link...] https://github.com/CarlosJunior01/Github-App
 
-    > App Android Nativo escrito em Kotlin, consumindo API github e processando resposta com retrofit2, coroutines para tratamento de concorrência e erros na aplicação.
-    > Projetado com padrão de arquitetura MVVM e Clean Architecture, em multimodulos com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+    > Native Android App written in Kotlin, consuming Github API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
+    > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
  
 
 * ANDROID: APP MOVIES [link...] https://github.com/Carlosjr01/Filmes-App
 
-    > App Android Nativo escrito em Kotlin, consumindo API tmdb e processando resposta com retrofit2, coroutines para tratamento de concorrência e integração ao Firebase       Authentication para reconhecimento da identidade do usuário. 
-    > Projetado com padrão de arquitetura MVVM com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+    > Native Android App written in Kotlin, consuming tmdb API and processing response with retrofit2, coroutines for concurrency handling and integration with Firebase Authentication for user identity recognition.
+    > Designed with MVVM architecture pattern with division of responsibilities, separation of concepts and decoupling of layers.
  
  
 * ANDROID: MARVEL [link...] https://github.com/Carlosjr01/MARVEL
 
-    > App Android Nativo escrito em Kotlin, consumindo API da Marvel e processando resposta com retrofit2 e moschi. 
-    > Projetado com padrão de arquitetura MVVM com divisão de responsabilidades, separação de conceitos e desacoplamento de camadas.
+    > Native Android App written in Kotlin, consuming Marvel API and processing response with retrofit2 and moschi.
+    > Designed with MVVM architecture pattern with division of responsibilities, separation of concepts and decoupling of layers.
  
 * ANDROID: APP MY NOTES(Java) [link...] https://github.com/Carlosjr01/APP-NATIVO-MY-NOTES
 
-    > App de Anotações, com integração ao BD.
-    > Armazenar e listar tarefas.
-    > Incluir, deletar e atualizar suas anotações.
+    > Notes App, with integration with the DB.
+    > Store and list tasks.
+    > Add, delete and update your notes.
     
 * ANDROID: APP FOREX - REBAIXAMENTO OPÇÕES BINÁRIAS (Java)
-     >Aplicativo Nativo desenvolvido em Android Studio com Java. 
+     > Aplicativo Nativo desenvolvido em Android Studio com Java. 
 
 * ANDROID: APP FLEX - ÁLCOOL OU GASOLINA (Java) [link...](https://github.com/Carlosjr01/ANDROID-NATIVO-APP-FLEX
 
-    >Aplicativo Nativo desenvolvido em Android Studio com Java. 
+    > Aplicativo Nativo desenvolvido em Android Studio com Java. 
 
 * JAVA-IMC-CALCULATOR (Java) [link...](https://github.com/Carlosjr01/JAVA-IMC-CALCULATOR/blob/master/src/imc/IMC_Calc.java)
-    >Aplicação Java para calculos de IMC. 
+    > Aplicação Java para calculos de IMC. 
     
  * TheGardian - 3D Game (C#) [link...](https://www.youtube.com/watch?v=lJd9yuI95yQ)
-    >Game desenvolvido em Unity 5 e programado em C# - TheGardian Gameplay(Alpha Version)1080p.
+    > Game desenvolvido em Unity 5 e programado em C# - TheGardian Gameplay(Alpha Version)1080p.
 
 * MegaFusion - 3D Game (C#) [link 1...](https://www.youtube.com/watch?v=BjZ_7RXWiJM)  |  [link 2...](https://www.youtube.com/watch?v=NqfyJ_6DaCc) 
-    >Game desenvolvido em Unity 5 e programado em C# - MegaFusion Gameplay(Alpha Version)1080p.
+    > Game desenvolvido em Unity 5 e programado em C# - MegaFusion Gameplay(Alpha Version)1080p.
 
 * Legacy of Horus - 3D Game (C++) [link1...](https://www.youtube.com/watch?v=ID-k12TUQgc)  |  [link2...](https://www.youtube.com/watch?v=t8u471OA26M)
-    >Game desenvolvido em Unnreal Engine 4 e programado em C++ - Legacy of Horus(Alpha Version)1080p.
+    > Game desenvolvido em Unnreal Engine 4 e programado em C++ - Legacy of Horus(Alpha Version)1080p.
     
 *******
 
