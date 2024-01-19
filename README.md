@@ -1,5 +1,5 @@
-### Olá 😄, meu nome é Carlos
-#### Eu sou um Desenvolvedor Android Java/Kotlin
+### Hello 😄, my name is Carlos
+#### I am a Android Java/Kotlin Developer
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/Carlosjr01) 
 
@@ -10,7 +10,6 @@
 <h4 align="left">Companies:</h4>
 
 <img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="180" height="45"/> &nbsp; <img src="https://media-genial-analisa.genialinvestimentos.com.br/wp-content/uploads/2021/07/01174639/petz-04.png" alt="petz" height="45"/>
-
 
 
 <!--
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 ![1603944260703](https://user-images.githubusercontent.com/9430430/109712195-80af4d00-7b7e-11eb-91d5-2b6771fd8060.jpg)
 *******
-* ## 🔗 Saiba mais sobre mim
+* ## 🔗 More about me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/CarlosJunior01?tab=repositories)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:carlos.udi@live.com)
@@ -40,14 +39,14 @@ Here are some ideas to get you started:
 
 *******
 
-## PERFIL
-**Eterno estudante e entusiasta da tecnologia e de toda transformação que a mesma proporciona.** :coffee:
+## PROFILE
+**Eternal student and enthusiast of technology and all the transformation it provides.** :coffee:
 
-Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpessoal, foco, dedicação e comprometimento com o trabalho e equipe, coragem para enfrentar novos desafios, grande vontade e energia para aprender, crescer e desenvolver profissionalmente.
+Developer of Mobile systems and Digital Games. I have good interpersonal relationships, focus, dedication and commitment to work and the team, courage to face new challenges, great desire and energy to learn, grow and develop professionally.
 
 *******
 
-## FORMAÇÃO ACADÊMICA: 
+## ACADEMIC EDUCATION:
 **Pontifícia Universidade Católica de Minas Gerais - PUC MG** :mortar_board:
 
 >BACHAREL SISTEMAS DE INFORMAÇÃO PUC MG - 2019 - 2023
@@ -88,7 +87,7 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
   :white_square_button: **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
   
   *******
-## EXPERIÊNCIAS PROFISSIONAIS:
+## PROFESSIONAL EXPERIENCES:
 
 ### Claro (2023 - 2024)
 * **Mobile Android Developer Senior 3**
@@ -138,8 +137,8 @@ Desenvolvedor de sistemas Mobile e Jogos Digitais. Possuo boa relação interpes
 
 *******
 
-## PROJETOS:
-### Meus Repositórios
+## PROJECTS:
+### My Repositories
 
 * 1000 Days Of Android [link...] https://github.com/CarlosJunior01/1000-Days-Of-Android
 
