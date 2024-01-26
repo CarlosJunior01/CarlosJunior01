@@ -55,36 +55,34 @@ Developer of Mobile systems and Digital Games. I have good interpersonal relatio
 
 ## SKILLS:
   :ballot_box_with_check: **𝗠𝗢𝗕𝗜𝗟𝗘: 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗡𝗔𝗧𝗜𝗩𝗢 𝗝𝗔𝗩𝗔 𝗘 𝗞𝗢𝗧𝗟𝗜𝗡.** <br/>
-  :white_square_button: **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
-  :white_square_button: **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
-  :white_square_button: **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
-  :white_square_button: **𝗠𝗩𝗣/𝗠𝗩𝗩𝗠/𝗠𝗩𝗩𝗠 𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘**<br/>
-  :white_square_button: **𝗔𝗣𝗜 𝗪𝗘𝗕 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦 + 𝗥𝗘𝗧𝗥𝗢𝗙𝗜𝗧**<br/>
-  :white_square_button: **𝗚𝗢𝗢𝗚𝗟𝗘 𝗔𝗣𝗜'𝗦**<br/>
-  :white_square_button: **𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘**<br/>
-  :white_square_button: **𝗧𝗘𝗦𝗧𝗘𝗦 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗭𝗔𝗗𝗢𝗦**<br/>
-  :white_square_button: **𝗝𝗨𝗡𝗜𝗧, 𝗠𝗢𝗖𝗞𝗜𝗧𝗢, 𝗘𝗦𝗣𝗥𝗘𝗦𝗦𝗢**<br/>
-  :white_square_button: **𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥**<br/>
-  :white_square_button: **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
-  :white_square_button: **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
+  ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
+  ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
+  ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
+  ✅ **𝗝𝗘𝗧𝗣𝗔𝗖𝗞 𝗖𝗢𝗠𝗣𝗢𝗦𝗘**<br/>
+  ✅ **𝗠𝗩𝗣/𝗠𝗩𝗩𝗠/𝗠𝗩𝗩𝗠 𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘**<br/>
+  ✅ **𝗗𝗜: 𝗗𝗔𝗚𝗚𝗘𝗥 𝗛𝗜𝗟𝗧, 𝗞𝗢𝗜𝗡**<br/>
+  ✅ **𝗔𝗣𝗜 𝗪𝗘𝗕 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗦 + 𝗥𝗘𝗧𝗥𝗢𝗙𝗜𝗧**<br/>
+  ✅ **𝗚𝗢𝗢𝗚𝗟𝗘 𝗔𝗣𝗜'𝗦**<br/>
+  ✅ **𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘**<br/>
+  ✅ **𝗝𝗨𝗡𝗜𝗧, 𝗚𝗢𝗢𝗚𝗟𝗘 𝗧𝗥𝗨𝗧𝗛, 𝗠𝗢𝗖𝗞𝗜𝗧𝗢, 𝗘𝗦𝗣𝗥𝗘𝗦𝗦𝗢**<br/>
+  ✅ **𝗧𝗘𝗦𝗧𝗘𝗦 𝗜𝗡𝗦𝗧𝗥𝗨𝗠𝗘𝗡𝗧𝗔𝗗𝗢𝗦, 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗭𝗔𝗗𝗢𝗦**<br/>
+  ✅ **𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥**<br/>
+  ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
+  ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   
   :ballot_box_with_check: **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
-  :white_square_button: **𝗝𝗔𝗩𝗔**<br/>
-  :white_square_button: **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
-
-  :ballot_box_with_check: **𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗.**<br/>
-  :white_square_button: **𝗛𝗧𝗠𝗟**<br/>
-  :white_square_button: **𝗖𝗦𝗦**<br/>
-  :white_square_button: **𝗣𝗛𝗢𝗧𝗢𝗦𝗛𝗢𝗣/𝗚𝗜𝗠𝗣**<br/>
+  ✅ **𝗝𝗔𝗩𝗔**<br/>
+  ✅ **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
 
   :ballot_box_with_check: **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
-  :white_square_button: **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
-  :white_square_button: **𝗥𝗢𝗢𝗠**<br/>
+  ✅ **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
+  ✅ **𝗥𝗢𝗢𝗠**<br/>
+  ✅ **𝗥𝗘𝗔𝗟𝗠**<br/>
 
   :ballot_box_with_check: **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
-  :white_square_button: **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
-  :white_square_button: **𝗨𝗡𝗥𝗘𝗔𝗟 𝟰**<br/>
-  :white_square_button: **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
+  ✅ **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
+  ✅ **𝗨𝗡𝗥𝗘𝗔𝗟 𝟱**<br/>
+  ✅ **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
   
   *******
 ## PROFESSIONAL EXPERIENCES:
