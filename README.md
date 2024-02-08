@@ -138,16 +138,6 @@ Developer of Mobile systems and Digital Games. I have good interpersonal relatio
 ## PROJECTS:
 ### My Repositories
 
-* 1000 Days Of Android [link...] https://github.com/CarlosJunior01/1000-Days-Of-Android
-
-    > This is my 1000 day Android study marathon.
-
-
-* 1000 Days Of Kotlin [link...] https://github.com/CarlosJunior01/1000-Days-Of-Kotlin
-
-    > This is my 1000 day Kotlin study marathon.
-
-
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
    > Native Android App written in Kotlin, consuming Rest Swapi API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
@@ -158,6 +148,16 @@ Developer of Mobile systems and Digital Games. I have good interpersonal relatio
 
     > Native Android App written in Kotlin, consuming Github API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
     > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
+    
+
+* 1000 Days Of Android [link...] https://github.com/CarlosJunior01/1000-Days-Of-Android
+
+    > This is my 1000 day Android study marathon.
+
+
+* 1000 Days Of Kotlin [link...] https://github.com/CarlosJunior01/1000-Days-Of-Kotlin
+
+    > This is my 1000 day Kotlin study marathon.
  
 
 * ANDROID: APP MOVIES [link...] https://github.com/Carlosjr01/Filmes-App
