@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## PROFILE
 **Eternal student and enthusiast of technology and all the transformation it provides.** :coffee:
 
-Developer of Mobile systems and Digital Games. I have good interpersonal relationships, focus, dedication and commitment to work and the team, courage to face new challenges, great desire and energy to learn, grow and develop professionally.
+Developer of Mobile applications Android and iOS. I have good interpersonal relationships, focus, dedication and commitment to work and the team, courage to face new challenges, great desire and energy to learn, grow and develop professionally.
 
 *******
 
