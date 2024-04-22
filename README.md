@@ -7,7 +7,12 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://sdtimes.com/wp-content/uploads/2020/08/jetpack-compose-icon_RGB.png" alt="compose" height="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://sdtimes.com/wp-content/uploads/2020/08/jetpack-compose-icon_RGB.png" alt="compose" height="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/> 
+
+<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/app-store-1.svg" alt="ios" width="55"/> &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/ios-2.svg" alt="ios" width="60"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/>
+
+
+<h4 align="left">Companies:</h4> 
 
 <h4 align="left">Companies:</h4>
 
