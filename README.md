@@ -118,7 +118,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
    
 ### Everis NTT Data (2018 - 2019)
 * **Mobile Android Developer**
-   > Renegociação e Performance - App Cartões Itaú <br>
+   > Renegociação e Performance - Itaú Card <br>
    > Payment - iti Itaú
    
 ### BAT - British American Tobacco (2007-2017)
