@@ -84,7 +84,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: iOS 𝗡𝗔𝗧𝗜𝗩𝗢 SWIFT** <br/>
   ✅ **XCODE 14+**<br/>
   ✅ **Swift 5+**<br/>
-  ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
+  ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 iOS**<br/>
   ✅ **MVC/MVVM-C**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
