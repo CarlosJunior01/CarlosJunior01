@@ -58,7 +58,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 *******
 
 ## SKILLS:
-  :ballot_box_with_check: **𝗠𝗢𝗕𝗜𝗟𝗘: 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗡𝗔𝗧𝗜𝗩𝗢 𝗝𝗔𝗩𝗔 𝗘 𝗞𝗢𝗧𝗟𝗜𝗡.** <br/>
+  ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗡𝗔𝗧𝗜𝗩𝗢 𝗝𝗔𝗩𝗔 𝗘 𝗞𝗢𝗧𝗟𝗜𝗡** <br/>
   ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
   ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
@@ -73,21 +73,39 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥**<br/>
   ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
-  
-  :ballot_box_with_check: **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
+  *******
+  ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: iOS 𝗡𝗔𝗧𝗜𝗩𝗢 SWIFT** <br/>
+  ✅ **XCODE 14+**<br/>
+  ✅ **Swift 5+**<br/>
+  ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
+  ✅ **MVC/MVVM**<br/>
+  ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
+  ✅ **UIKIT/SWIFTUI**<br/> 
+  ✅ **SWIFT PACKAGE MANAGER**<br/>
+  ✅ **VIEW CONTROLLERS**<br/>
+  ✅ **CUPERTINO**<br/>
+  ✅ **AUTOLAYOUT**<br/>
+  ✅ **VIEWCODE**<br/>
+  ✅ **SF SYMBOLS**<br/>
+  ✅ **COMBINE FRAMEWORK**<br/>
+  ✅ **URL SESSION AND JSON**<br/>
+  ✅ **CODABLES**<br/>
+  ✅ **DESIGN PATTERNS**<br/>
+  ✅ **LOCAL STORAGE**<br/>
+  *******
+  ✅ **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
   ✅ **𝗝𝗔𝗩𝗔**<br/>
   ✅ **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
-
-  :ballot_box_with_check: **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
+  *******
+  ✅ **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
   ✅ **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
   ✅ **𝗥𝗢𝗢𝗠**<br/>
   ✅ **𝗥𝗘𝗔𝗟𝗠**<br/>
-
-  :ballot_box_with_check: **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
+  *******
+  ✅ **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
   ✅ **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
   ✅ **𝗨𝗡𝗥𝗘𝗔𝗟 𝟱**<br/>
   ✅ **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
-  
   *******
 ## PROFESSIONAL EXPERIENCES:
 
