@@ -58,6 +58,9 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 *******
 
 ## SKILLS:
+
+<img src='https://img.shields.io/badge/Android-00D492?logo=android&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/>
+
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗡𝗔𝗧𝗜𝗩𝗢 𝗝𝗔𝗩𝗔 𝗘 𝗞𝗢𝗧𝗟𝗜𝗡** <br/>
   ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
@@ -74,6 +77,9 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
+
+  <img src='https://img.shields.io/badge/iOS-fff?logo=apple&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/>
+  
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: iOS 𝗡𝗔𝗧𝗜𝗩𝗢 SWIFT** <br/>
   ✅ **XCODE 14+**<br/>
   ✅ **Swift 5+**<br/>
@@ -93,6 +99,8 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
   *******
+  <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/>
+  
   ✅ **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
   ✅ **𝗝𝗔𝗩𝗔**<br/>
   ✅ **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
