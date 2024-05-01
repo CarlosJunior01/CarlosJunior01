@@ -72,9 +72,10 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗚𝗢𝗢𝗚𝗟𝗘 𝗔𝗣𝗜'𝗦**<br/>
   ✅ **𝗙𝗜𝗥𝗘𝗕𝗔𝗦𝗘**<br/>
   ✅ **𝗝𝗨𝗡𝗜𝗧, 𝗚𝗢𝗢𝗚𝗟𝗘 𝗧𝗥𝗨𝗧𝗛, 𝗠𝗢𝗖𝗞𝗜𝗧𝗢, 𝗘𝗦𝗣𝗥𝗘𝗦𝗦𝗢**<br/>
-  ✅ **𝗧𝗘𝗦𝗧𝗘𝗦 𝗜𝗡𝗦𝗧𝗥𝗨𝗠𝗘𝗡𝗧𝗔𝗗𝗢𝗦, 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗭𝗔𝗗𝗢𝗦**<br/>
+  ✅ **𝗧𝗘𝗦𝗧𝗘𝗦 UNITÁRIOS, 𝗜𝗡𝗦𝗧𝗥𝗨𝗠𝗘𝗡𝗧𝗔𝗗𝗢𝗦, 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗭𝗔𝗗𝗢𝗦**<br/>
   ✅ **𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥**<br/>
   ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
+  ✅ **CI/CD BITRISE**<br/>
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
 
@@ -84,7 +85,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **XCODE 14+**<br/>
   ✅ **Swift 5+**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 𝗔𝗡𝗗𝗥𝗢𝗜𝗗**<br/>
-  ✅ **MVC/MVVM**<br/>
+  ✅ **MVC/MVVM-C**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
   ✅ **SWIFT PACKAGE MANAGER**<br/>
@@ -98,14 +99,42 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **CODABLES**<br/>
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
+  ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
+  ✅ **CI/CD BITRISE**<br/>
+  ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
-  <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' height='32'/>
+
+  <img src='https://img.shields.io/badge/React_Native-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB' height='32'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' height='32'/>
   
-  ✅ **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
+  ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: REACT 𝗡𝗔𝗧𝗜𝗩E** <br/>
+  ✅ **JAVASCRIPT/ TYPESCRIPT**<br/>
+  ✅ **MVVM AND CLEAN ARCHITECTURE**<br/>
+  ✅ **RESTYLE**<br/>
+  ✅ **DESIGNER SYSTEM AND UI COMPONENTS**<br/>
+  ✅ **REACT NAVIGATION**<br/>
+  ✅ **REACT HOOK FORM AND ZOD**<br/> 
+  ✅ **AXIOS**<br/>
+  ✅ **ESLINT, PRETTIER AND HUSKY**<br/>
+  ✅ **ZUSTAND AND CONTEXT**<br/>
+  ✅ **DATA FETCHING - REACT QUERY**<br/>
+  ✅ **DESIGN PATTERNS**<br/>
+  ✅ **UNIT TESTS, INTEGRATIOS TESTS AND E2E**<br/>
+  ✅ **JEST, REACT NATIVE TESTING LIBRARY AND DETOX**<br/>
+  ✅ **GOOGLE PLAY (ANDROID) AND APP STORE (IOS)**<br/>
+  ✅ **LOCAL STORAGE**<br/>
+  ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
+  ✅ **CI/CD BITRISE**<br/>
+  ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
+  *******
+  
+  <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' height='32'/>
+  
   ✅ **𝗝𝗔𝗩𝗔**<br/>
   ✅ **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
+  ✅ **SWIFT**<br/>
+  ✅ **TYPESCRIPT**<br/>
   *******
-  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='32'/>
+  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white' height='32'/>
   
   ✅ **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
   ✅ **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
