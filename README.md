@@ -59,7 +59,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 
 ## SKILLS:
 
-<img src='https://img.shields.io/badge/Android-00D492?logo=android&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/>
+<img src='https://img.shields.io/badge/Android-00D492?logo=android&logoColor=white&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Android_Studio-000?style=for-the-badge&logo=android-studio&logoColor=white' height='32'/>
 
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗡𝗔𝗧𝗜𝗩𝗢 𝗝𝗔𝗩𝗔 𝗘 𝗞𝗢𝗧𝗟𝗜𝗡** <br/>
   ✅ **𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗦𝗗𝗞**<br/>
@@ -78,7 +78,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
 
-  <img src='https://img.shields.io/badge/iOS-fff?logo=apple&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/>
+  <img src='https://img.shields.io/badge/iOS-fff?logo=apple&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white' height='32'/>
   
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: iOS 𝗡𝗔𝗧𝗜𝗩𝗢 SWIFT** <br/>
   ✅ **XCODE 14+**<br/>
@@ -99,17 +99,21 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
   *******
-  <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/>
+  <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' height='32'/>
   
   ✅ **𝗕𝗔𝗖𝗞-𝗘𝗡𝗗.**<br/>
   ✅ **𝗝𝗔𝗩𝗔**<br/>
   ✅ **𝗞𝗢𝗧𝗟𝗜𝗡**<br/>
   *******
+  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' height='32'/>
+  
   ✅ **𝗕𝗔𝗡𝗖𝗢 𝗗𝗘 𝗗𝗔𝗗𝗢𝗦**<br/>
   ✅ **𝗦𝗤𝗟𝗜𝗧𝗘**<br/>
   ✅ **𝗥𝗢𝗢𝗠**<br/>
   ✅ **𝗥𝗘𝗔𝗟𝗠**<br/>
   *******
+  <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' height='32'/>
+  
   ✅ **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
   ✅ **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
   ✅ **𝗨𝗡𝗥𝗘𝗔𝗟 𝟱**<br/>
