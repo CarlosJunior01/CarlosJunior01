@@ -85,7 +85,8 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **XCODE 14+**<br/>
   ✅ **Swift 5+**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 iOS**<br/>
-  ✅ **MVC/MVP/MVVM-C/VIP**<br/>
+  ✅ **iOS ARCHITECTURE PATTERN**<br/> 
+  ✅ **MVP/MVVM-C/CLEAN SWIFT (VIP)**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
   ✅ **SWIFT PACKAGE MANAGER**<br/>
