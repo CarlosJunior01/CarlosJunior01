@@ -95,6 +95,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **VIEWCODE**<br/>
   ✅ **SF SYMBOLS**<br/>
   ✅ **COMBINE FRAMEWORK**<br/>
+  ✅ **Alamofire**<br/>
   ✅ **URL SESSION AND JSON**<br/>
   ✅ **CODABLES**<br/>
   ✅ **DESIGN PATTERNS**<br/>
