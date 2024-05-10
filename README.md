@@ -94,7 +94,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **VIEW CONTROLLERS**<br/>
   ✅ **CUPERTINO**<br/>
   ✅ **AUTOLAYOUT**<br/>
-  ✅ **VIEWCODE**<br/>
+  ✅ **VIEWCODE, STORYBOARD**<br/>
   ✅ **SF SYMBOLS**<br/>
   ✅ **COMBINE FRAMEWORK**<br/>
   ✅ **ALAMOFIRE**<br/>
