@@ -99,6 +99,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **COMBINE FRAMEWORK**<br/>
   ✅ **ALAMOFIRE**<br/>
   ✅ **URL SESSION AND JSON**<br/>
+  ✅ **RXSWIFT**<br/>
   ✅ **CODABLES**<br/>
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
