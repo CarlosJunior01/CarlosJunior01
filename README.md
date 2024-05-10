@@ -89,7 +89,8 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **MVP/MVVM-C/CLEAN SWIFT (VIP)**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
-  ✅ **SWIFT PACKAGE MANAGER**<br/>
+  ✅ **COCOAPODS**<br/>
+  ✅ **SWIFT PACKAGE MANAGER**<br/> 
   ✅ **VIEW CONTROLLERS**<br/>
   ✅ **CUPERTINO**<br/>
   ✅ **AUTOLAYOUT**<br/>
