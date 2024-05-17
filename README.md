@@ -77,7 +77,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥**<br/>
   ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
   ✅ **CI/CD BITRISE**<br/>
-  ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗟𝗔𝗕, 𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
+  ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗟𝗔𝗕,𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
 
   <img src='https://img.shields.io/badge/iOS-fff?logo=apple&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white' height='32'/>
