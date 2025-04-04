@@ -1,5 +1,5 @@
 ### Hello 😄, my name is Carlos.
-#### I am a Android Developer and iOS Swift Developer.
+#### I am a Android Developer, iOS Swift Developer and Unity Developer.
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> [<img src='https://img.shields.io/badge/compose-%23100000.svg?&style=for-the-badge&logo=android&logoColor=white' alt='github' height='40'>](https://github.com/Carlosjr01) 
 
@@ -13,7 +13,7 @@
 
 <h4 align="left">Companies:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="180" height="45"/> &nbsp; <img src="https://media-genial-analisa.genialinvestimentos.com.br/wp-content/uploads/2021/07/01174639/petz-04.png" alt="petz" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" height="45"/> &nbsp; <img src="https://media.licdn.com/dms/image/C4D16AQE6Ppa19gm1CA/profile-displaybackgroundimage-shrink_200_800/0/1638312833457?e=2147483647&v=beta&t=BKRLBaDTDf5df6z8HlRUAtgp4WDsbAlCJS_VOYZuATE" alt="c6" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="180" height="45"/> &nbsp; <img src="https://static-file.petz.com.br/platforms/img/ds/petz/logo-petz-primary.svg" alt="petz" height="45"/>
 
 
 <!--
