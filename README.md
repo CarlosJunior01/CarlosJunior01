@@ -149,7 +149,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' height='32'/>
   
   ✅ **𝗚𝗔𝗠𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗦**<br/>
-  ✅ **𝗨𝗡𝗜𝗧𝗬 𝟱**<br/>
+  ✅ **𝗨𝗡𝗜𝗧𝗬 6**<br/>
   ✅ **𝗨𝗡𝗥𝗘𝗔𝗟 𝟱**<br/>
   ✅ **𝗕𝗟𝗘𝗡𝗗𝗘𝗥 𝟯𝗗**<br/>
   *******
