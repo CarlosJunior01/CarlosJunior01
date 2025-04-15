@@ -9,7 +9,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="55" height="55"/> &nbsp; <img src="https://sdtimes.com/wp-content/uploads/2020/08/jetpack-compose-icon_RGB.png" alt="compose" height="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="60" height="60"/> &nbsp; <img src="https://europe1.discourse-cdn.com/unity/original/4X/5/f/6/5f64a438cd746a92ee7c36dd77de52fb0f2bc0d5.jpeg" alt="unity" width="120" height="50"/> &nbsp; <img src="https://media.licdn.com/dms/image/v2/D5612AQFOy9YRYwot4Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1710593012614?e=2147483647&v=beta&t=P_y6NoM8gl6VOuivuV8fmIBtHzPMIfqvY7Usa-l44j4" alt="c#" width="80" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ios-2.svg" alt="ios" width="60"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="react" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ios-2.svg" alt="ios" width="60"/> &nbsp; <!-- <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="react" width="55" height="55"/> --><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="55" height="55"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-2.svg" alt="google-analytics" width="250" height="45"/> 
 
 <h4 align="left">Companies:</h4>
 
@@ -83,24 +83,25 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   <img src='https://img.shields.io/badge/iOS-fff?logo=apple&logoColor=black&style=for-the-badge' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white' height='32'/>
   
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: iOS 𝗡𝗔𝗧𝗜𝗩𝗢 SWIFT** <br/>
-  ✅ **XCODE 14+**<br/>
+  ✅ **XCODE 14, 15, 16+**<br/>
   ✅ **Swift 5+**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 iOS**<br/>
   ✅ **iOS ARCHITECTURE PATTERN**<br/> 
-  ✅ **MVP/MVVM-C/CLEAN SWIFT (VIP)**<br/>
+<!--  ✅ **MVP/MVVM-C/CLEAN SWIFT (VIP)**<br/> -->
+  ✅ **MVVM-C/CLEAN SWIFT**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
   ✅ **COCOAPODS**<br/>
   ✅ **SWIFT PACKAGE MANAGER**<br/> 
   ✅ **VIEW CONTROLLERS**<br/>
-  ✅ **CUPERTINO**<br/>
+ <!-- ✅ **CUPERTINO**<br/> -->
   ✅ **AUTOLAYOUT**<br/>
   ✅ **VIEWCODE, STORYBOARD**<br/>
-  ✅ **SF SYMBOLS**<br/>
-  ✅ **COMBINE FRAMEWORK**<br/>
+  <!-- ✅ **SF SYMBOLS**<br/> -->
+  <!--✅ **COMBINE FRAMEWORK**<br/>-->
   ✅ **ALAMOFIRE**<br/>
   ✅ **URL SESSION AND JSON**<br/>
-  ✅ **RXSWIFT**<br/>
+ <!-- ✅ **RXSWIFT**<br/> -->
   ✅ **CODABLES**<br/>
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
@@ -109,7 +110,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
   *******
 
-  <img src='https://img.shields.io/badge/React_Native-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB' height='32'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' height='32'/>
+<!--   <img src='https://img.shields.io/badge/React_Native-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB' height='32'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' height='32'/>
   
   ✅ **𝗠𝗢𝗕𝗜𝗟𝗘: REACT 𝗡𝗔𝗧𝗜𝗩E** <br/>
   ✅ **JAVASCRIPT/ TYPESCRIPT**<br/>
@@ -130,7 +131,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗢𝗨𝗦 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡**<br/>
   ✅ **CI/CD BITRISE**<br/>
   ✅ **𝗚𝗜𝗧/𝗚𝗜𝗧𝗛𝗨𝗕/𝗚𝗜𝗧𝗙𝗟𝗢𝗪**<br/>
-  *******
+  ******* -->
   
   <img src='https://img.shields.io/badge/Java-009466?style=for-the-badge&logo=openjdk&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height='32'/> <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' height='32'/>
   
