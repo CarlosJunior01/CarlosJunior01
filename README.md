@@ -87,21 +87,20 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   ✅ **Swift 5+**<br/>
   ✅ **𝗔𝗖𝗘𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘 iOS**<br/>
   ✅ **iOS ARCHITECTURE PATTERN**<br/> 
-<!--  ✅ **MVP/MVVM-C/CLEAN SWIFT (VIP)**<br/> -->
   ✅ **MVVM-C/CLEAN SWIFT**<br/>
   ✅ **iOS UI 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦**<br/>
   ✅ **UIKIT/SWIFTUI**<br/> 
   ✅ **COCOAPODS**<br/>
   ✅ **SWIFT PACKAGE MANAGER**<br/> 
   ✅ **VIEW CONTROLLERS**<br/>
- <!-- ✅ **CUPERTINO**<br/> -->
+  ✅ **CUPERTINO**<br/>
   ✅ **AUTOLAYOUT**<br/>
   ✅ **VIEWCODE, STORYBOARD**<br/>
-  <!-- ✅ **SF SYMBOLS**<br/> -->
-  <!--✅ **COMBINE FRAMEWORK**<br/>-->
+  ✅ **SF SYMBOLS**<br/>
+  ✅ **COMBINE FRAMEWORK**<br/>
+  ✅ **RXSWIFT**<br/>
   ✅ **ALAMOFIRE**<br/>
   ✅ **URL SESSION AND JSON**<br/>
- <!-- ✅ **RXSWIFT**<br/> -->
   ✅ **CODABLES**<br/>
   ✅ **DESIGN PATTERNS**<br/>
   ✅ **LOCAL STORAGE**<br/>
