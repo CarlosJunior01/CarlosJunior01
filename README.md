@@ -155,8 +155,8 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   *******
 ## PROFESSIONAL EXPERIENCES:
 
-### Clar
-* **Mobile Android/iOS Developer**
+### Claro
+* **Mobile Platforms Developer **
    > Minha Claro Residencial <br>
    > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto.
 
