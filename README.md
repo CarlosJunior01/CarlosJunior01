@@ -53,7 +53,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 ## ACADEMIC EDUCATION:
 **Pontifícia Universidade Católica de Minas Gerais - PUC MG** :mortar_board:
 
->BACHAREL SISTEMAS DE INFORMAÇÃO PUC MG - 2019 - 2023
+>BACHAREL SISTEMAS DE INFORMAÇÃO PUC MG
 
 *******
 
