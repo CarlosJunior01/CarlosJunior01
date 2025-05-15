@@ -155,37 +155,32 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
   *******
 ## PROFESSIONAL EXPERIENCES:
 
-### Claro (2023 - 2024)
-* **Mobile Android Developer Senior 3**
+### Clar
+* **Mobile Android/iOS Developer**
    > Minha Claro Residencial <br>
    > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto.
 
-### C6 BANK (2022 - 2023)
-* **Mobile Android Developer Senior 3**
+### C6 BANK
+* **Mobile Android Developer Senior**
    > C6 YELLOW - C6 Bank <br>
    > Frente de Investimentos, Cartões, Pix Cash-In, Pix Cash-Out e Gestão de Chaves Pix.
-   
-### Santander GetNet (2021 - 2022)
-* **Mobile Android Developer Senior 2**
-   > Santander SuperGet <br>
-   > Frente de Pagamentos com Tap On Phone e Cartões.
 
-### ZUP ITAÚ (2020 - 2021)
-* **Mobile Android Developer Senior 1**
+### ZUP ITAÚ
+* **Mobile Android Developer**
    > Open Banking - iti Itaú <br>
    > Frente de Open Finance, Pix Cash-In, Pix Cash-Out e Gestão de Chaves Pix.
+   
+### Everis NTT Data
+* **Mobile Android Developer**
+   > Renegociação e Performance - Itaú Card <br>
+   > Payment - iti Itaú
 
-### Ergon Data (2019 - 2020)
+  ### Ergon Data
 * **Mobile Android Developer**
    > Freto <br>
    > Responsável pela jornada completa da Conta Digital Pagamentos, Tranferência e Gestão Chaves Pix.
    
-### Everis NTT Data (2018 - 2019)
-* **Mobile Android Developer**
-   > Renegociação e Performance - Itaú Card <br>
-   > Payment - iti Itaú
-   
-### BAT - British American Tobacco (2007-2017)
+### BAT - British American Tobacco
 * **Production Technician And Exported Planner**
    >Uberlândia, Minas Gerais
    
