@@ -158,7 +158,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 ### Claro
 * **Mobile Platforms Developer**
    > Minha Claro Residencial <br>
-   > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto.
+   > Frente do Financeiro, Fatura, Pagamentos Pix, Cartão, Boleto, Onboarding, Ecommerce, Técnica.
 
 ### C6 BANK
 * **Mobile Android Developer Senior**
