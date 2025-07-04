@@ -201,7 +201,7 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 ## PROJECTS:
 ### My Repositories
 
-* ANDROID: MYWALLET-APP [link...] https://github.com/CarlosJunior01/MyWallet
+* ANDROID: MyWallet-APP [link...] https://github.com/CarlosJunior01/MyWallet
 
     > Your Digital Wallet Application.
 
