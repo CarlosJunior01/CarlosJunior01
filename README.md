@@ -204,13 +204,18 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
    > Native Android App written in Kotlin, consuming Rest Swapi API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
-    > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
+   > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
  
 
 * ANDROID: GITHUB-APP [link...] https://github.com/CarlosJunior01/Github-App
 
     > Native Android App written in Kotlin, consuming Github API and processing response with retrofit2, coroutines for handling concurrency and errors in the application.
     > Designed with MVVM and Clean Architecture standards, in multimodules with division of responsibilities, separation of concepts and decoupling of layers.
+
+    
+* ANDROID: MYWALLET-APP [link...] https://github.com/CarlosJunior01/MyWallet
+
+    > Your Digital Wallet Application.
     
 
 * 1000 Days Of Android [link...] https://github.com/CarlosJunior01/1000-Days-Of-Android
