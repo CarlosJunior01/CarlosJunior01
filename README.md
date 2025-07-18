@@ -13,7 +13,7 @@
 
 <h4 align="left">Companies:</h4>
 
-<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" width="140" height="85"/> &nbsp; <img src="https://yt3.googleusercontent.com/ULCTjCc5xuwFxQK4fee1-EJTjUZqUniisIGm0te50voU8Py0B_QQGaWRyzea9ETViyb_HlBagQ=s160-c-k-c0x00ffffff-no-rj" alt="c6" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="200" height="55"/> &nbsp; <img src="https://media-genial-analisa.genialinvestimentos.com.br/wp-content/uploads/2021/07/16153240/petz-logo.png" alt="petz" width="180" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/itau.svg" alt="itau" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/santander1.svg" alt="santander" width="140" height="85"/> &nbsp; <img src="https://play-lh.googleusercontent.com/qYXhGgBxFLr5xgnv0AGhqW9v7tyedb_i5AVoebI6pow5pWPNZH1qEHnslmSHNkVpB-g" alt="c6" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/claro.svg" alt="claro" width="45" height="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/ntt-data-1.svg" alt="ntt-data" width="200" height="55"/> &nbsp; <!--<img src="https://media-genial-analisa.genialinvestimentos.com.br/wp-content/uploads/2021/07/16153240/petz-logo.png" alt="petz" width="180" height="45"/>-->
 
 
 <!--
