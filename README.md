@@ -204,6 +204,11 @@ Developer of Mobile applications Android and iOS. I have good interpersonal rela
 * ANDROID: MyWallet-APP [link...] https://github.com/CarlosJunior01/MyWallet
 
     > Your Digital Wallet Application.
+    
+
+* ANDROID: Coin-APP [link...] [https://github.com/CarlosJunior01/MyWallet](https://github.com/CarlosJunior01/CoinApp)
+
+    > CoinApp - Listagem de Exchanges de Criptomoedas
 
 * ANDROID: StarWars-APP [link...] https://github.com/CarlosJunior01/StarWars-App
 
